@@ -1,0 +1,1 @@
+This project focuses on predicting stock prices using deep learning models, specifically Long Short-Term Memory (LSTM) networks and Recurrent Neural Networks (RNN). Historical stock data from Yahoo Finance is utilized to train and test the model.
